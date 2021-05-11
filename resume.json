@@ -1,0 +1,95 @@
+{
+  "name": "Rayme Pena",
+  "email": "rhayme00@gmail.com",
+  "phone": "801-656-8372",
+  "education": [
+    {
+      "school": "UVU",
+      "fullname": "Utah Valley University",
+      "city": "Orem",
+      "state": "Utah",
+      "major": "Bachelor of Science",
+      "emphasis": "Full Stack Web Development",
+      "image": "./images/uvu.jpg",
+      "graduated": "Graduated May 2021"
+    },
+
+    {
+      "school": "SLCC",
+      "fullname": "Salt Lake Community College",
+      "city": "Taylorsville",
+      "state": "Utah",
+      "major": "Associate of Science",
+      "emphasis": "Computer Science & Information System",
+      "image": "./images/slcc2.jpg",
+      "graduated": "Graduated May 2017"
+    },
+    {
+      "school": "DevMountain",
+      "fullname": "DevMountain",
+      "city": "Salt Lake City",
+      "state": "Utah",
+      "major": "Computer Science",
+      "emphasis": "Full Stack Web Development",
+      "image": "./images/dev.png",
+      "graduated": "April 2017- August 2017"
+    }
+  ],
+
+  "skills": [
+    "JavaScript",
+    "Vue.js",
+    "Vuetify",
+    "CSS",
+    "HTML",
+    "C#",
+    "Nodejs",
+    "Express",
+    "Git",
+    "MySQL /SQL",
+    "MongoDB",
+    "Exposure to AWS"
+  ],
+  "qualities": [
+    "Problem solver",
+    "Positive attitude",
+    "Excellent communication",
+    "Great analytical skills",
+    "Determined to learn new skills",
+    "Work as a team member",
+    "Strong work ethic",
+    "Dependable",
+    "Ability to work with minimal supervision",
+    "Meets deadlines"
+  ],
+
+  "experiences": [
+    {
+      "company": "Programming Express",
+      "position": "Special Services",
+      "date": "April 2010 - Present",
+      "tasks": [
+        "Complete work orders according to customer specifications",
+        "Verify equipment calibration",
+        "Responsible for verifying work order instructions",
+        "Hands-on working knowledge of tape and reel machine",
+        "Perform microchip inspections",
+        "Inspect and release finished product for shipping",
+        "Dedicated to providing a safe and a clean work area",
+        "Cross trained in five different departments"
+      ]
+    },
+    {
+      "company": "Subway",
+      "position": "Special Services",
+      "date": "January 2010 – April 2010",
+      "tasks": [
+        "Ensure customers are served in an efficient and friendly manner",
+        "Food preparation including bread and cookie baking",
+        "Properly store food according to Health & Safety standards",
+        "Count end of shift monies and drop in safe"
+      ]
+    }
+  ],
+  "language": ["English", "Spanish"]
+}
